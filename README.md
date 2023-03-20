@@ -17,6 +17,8 @@ To use this script, follow these steps:
 
 The script will generate a JWT and print it to the console.
 
+You can also download and run compiled file in macos or linux
+
 ## License
 
 This script is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit.
